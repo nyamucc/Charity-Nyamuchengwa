@@ -12,11 +12,11 @@ I hold a Master’s degree in Data Science 🎓 and bring over 5 years of experi
 ❤️ Later, I served as a Strategic Information & Evaluation Assistant at a health-focused NGO, supporting monitoring, evaluation, and data-driven program decisions for 1 year.
 I specialize in:
 
-🐍 Python (pandas, scikit-learn, matplotlib)
-💾 SQL & database queries
-📊 Power BI & Tableau for dashboard development
-🧹 Data cleaning & pipeline automation
-📋 Monitoring & Evaluation reporting and indicator tracking
+- 🐍 Python (pandas, scikit-learn, matplotlib)
+- 💾 SQL & database queries
+- 📊 Power BI & Tableau for dashboard development
+- 🧹 Data cleaning & pipeline automation
+-📋 Monitoring & Evaluation reporting and indicator tracking
 I’m passionate about using data not just for analysis or prediction — but to support smarter, more impactful decisions, especially in development, public health, and social good.
 
 
