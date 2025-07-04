@@ -17,6 +17,9 @@ I specialize in:
 - 📊 Power BI & Tableau for dashboard development
 - 🧹 Data cleaning & pipeline automation
 -📋 Monitoring & Evaluation reporting and indicator tracking
+- 🤖 Machine Learning (classification, regression, clustering, NLP basics)
+-  🔍 Statistical Analysis and hypothesis testing
+  
 I’m passionate about using data not just for analysis or prediction — but to support smarter, more impactful decisions, especially in development, public health, and social good.
 
 
