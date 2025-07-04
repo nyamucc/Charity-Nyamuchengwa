@@ -1,14 +1,20 @@
 👋🏽 Hie There
 
 📌 About Me in 30 Seconds
-I’m a Data Analyst and budding Data Scientist / Machine Learning Engineer with a strong foundation in data analysis, monitoring & evaluation (M&E), and real-world impact tracking.
+I’m a Data Analyst and aspiring Data Scientist / Machine Learning Engineer with a solid background in statistics, strategic information systems, and real-world impact evaluation
+based in United States.
 
-I work with tools like Python 🐍 (pandas, scikit-learn, matplotlib), SQL 🧮, Power BI 📊, and Tableau 📈 to explore data, build models, and communicate insights clearly.
+I hold a Master’s degree in Data Science 🎓 and bring over 5 years of experience working across industries to make data useful, understandable, and actionable.
 
-My background blends experience in development programs and M&E with technical projects like:
+🧮 I worked as a Statistical Analyst for 4 years at a transport and logistics company, analyzing operational and performance data.
+❤️ Later, I served as a Strategic Information & Evaluation Assistant at a health-focused NGO, supporting monitoring, evaluation, and data-driven program decisions for 1 year.
+I specialize in:
 
-🔍 Predictive modeling
-🧹 Data cleaning and automation
-📊 Dashboard development
-I care about using data not just to build models, but to solve real-world problems and support better decision-making — especially in the nonprofit, public health, and development spaces.
+🐍 Python (pandas, scikit-learn, matplotlib)
+💾 SQL & database queries
+📊 Power BI & Tableau for dashboard development
+🧹 Data cleaning & pipeline automation
+📋 Monitoring & Evaluation reporting and indicator tracking
+I’m passionate about using data not just for analysis or prediction — but to support smarter, more impactful decisions, especially in development, public health, and social good.
+
 
