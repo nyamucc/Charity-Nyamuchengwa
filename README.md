@@ -1,6 +1,8 @@
 👋🏽 Hie There
 
 📌 About Me in 30 Seconds
+----
+
 I’m a Data Analyst and aspiring Data Scientist / Machine Learning Engineer with a solid background in statistics, strategic information systems, and real-world impact evaluation
 based in United States.
 
