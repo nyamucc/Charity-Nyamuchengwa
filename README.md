@@ -3,8 +3,6 @@
 📌 About Me in 30 Seconds
 ----
 
-
-![Workflow banner](https://github.com/user-attachments/assets/be9531a0-0084-4d53-bbbe-9394ab328dbb)
 ![Workflow banner](https://github.com/user-attachments/assets/ddcfa404-d207-472c-8e4e-ad4c4087b8b8)
 
 
