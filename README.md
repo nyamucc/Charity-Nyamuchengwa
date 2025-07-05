@@ -3,10 +3,10 @@
 📌 About Me in 30 Seconds
 ----
 
-<img width="500" alt="Screenshot 2025-07-04 at 7 59 17 PM" src="https://github.com/user-attachments/assets/be9531a0-0084-4d53-bbbe-9394ab328dbb" />
-
 
 ![Workflow banner](https://github.com/user-attachments/assets/be9531a0-0084-4d53-bbbe-9394ab328dbb)
+<img width="600" alt="Screenshot 2025-07-04 at 7 59 17 PM" src="https://github.com/user-attachments/assets/ddcfa404-d207-472c-8e4e-ad4c4087b8b8" />
+
 
 
 I’m a Data Analyst and aspiring Data Scientist / Machine Learning Engineer with a solid background in statistics, strategic information systems, and real-world impact evaluation
