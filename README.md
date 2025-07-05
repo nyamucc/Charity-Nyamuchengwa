@@ -3,7 +3,7 @@
 📌 About Me in 30 Seconds
 ----
 
-<img width="600" alt="Screenshot 2025-07-04 at 7 59 17 PM" src="https://github.com/user-attachments/assets/be9531a0-0084-4d53-bbbe-9394ab328dbb" />
+<img width="1000" alt="Screenshot 2025-07-04 at 7 59 17 PM" src="https://github.com/user-attachments/assets/be9531a0-0084-4d53-bbbe-9394ab328dbb" />
 
 
 
