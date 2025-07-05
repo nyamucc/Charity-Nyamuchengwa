@@ -21,7 +21,7 @@ I specialize in:
 - 💾 SQL & database queries
 - 📊 Power BI & Tableau for dashboard development
 - 🧹 Data cleaning & pipeline automation
--📋 Monitoring & Evaluation reporting and indicator tracking
+- 📋 Monitoring & Evaluation reporting and indicator tracking
 - 🤖 Machine Learning (classification, regression, clustering, NLP basics)
 -  🔍 Statistical Analysis and hypothesis testing
   
